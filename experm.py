@@ -8,7 +8,7 @@ from discord import ui, Embed , File
 
 IRAN_TIMEZONE = timezone(timedelta(hours=3, minutes=30))
 
-token = "MTM5NDI3MjI5NTQ1NDc3MzI2OA.GQajZl.aIVfT8tRV_aAXG2AHEq7lKjdNztBoaJgrRu9Ko"
+token = ""
 
 intents = discord.Intents.all()
 
